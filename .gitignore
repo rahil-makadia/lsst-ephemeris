@@ -1,3 +1,40 @@
+################################### NAIF Spice file extensions
+# comment files
+*.cmt
+
+# binary orientation/attitude kernel (ck)
+*.bc
+
+# binary dsk shape model/topographic kernel (dsk)
+*.bds
+
+# binary mission event kernel (ek)
+*.bes
+
+# binary planetary constant kernel (pck)
+*.bpc
+
+# binary ephemeris kernel (spk)
+*.bsp
+
+# text frame kernel (fk)
+*.tf
+
+# text instrument kernel (ik)
+*.ti
+
+# text leapseconds kernel (lsk)
+*.tls
+
+# text metakernel (mk)
+*.tm
+
+# text planetary constant kernel (pck)
+*.tpc
+
+# text spacecraft clock kernel (sclk)
+*.tsc
+
 ################################### OS generated files
 .DS_Store
 .DS_Store?
